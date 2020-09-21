@@ -268,7 +268,10 @@ header{
     opacity: 1;
     top: 0;
     user-select: auto;
-    pointer
+    pointer-events: auto;
+}
+.back-content .btn{
+    color: #000;
 }
 
 /*end of background product*/
